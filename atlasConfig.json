@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-nbusu",
+    "appUrl": "https://realm.mongodb.com/groups/64db142123f807387efeea5c/apps/64db2d69f3f32b552dfafc9a",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://ap-south-1.aws.realm.mongodb.com",
+    "dataApiBaseUrl": "https://ap-south-1.aws.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/64db142123f807387efeea5c/explorer/AtlasCluster/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
